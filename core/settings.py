@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'accounts',
     'categories',
     'places',
+    'interactions',
     'rest_framework',
     'drf_yasg',
     'rest_framework.authtoken', 
